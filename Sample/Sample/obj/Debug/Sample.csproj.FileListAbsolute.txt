@@ -1,0 +1,7 @@
+C:\Users\mid16\Documents\Универ\OPI\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\mid16\Documents\Универ\OPI\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\mid16\Documents\Универ\OPI\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\mid16\Documents\Универ\OPI\Sample\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+C:\Users\mid16\Documents\Универ\OPI\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\mid16\Documents\Универ\OPI\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\mid16\Documents\Универ\OPI\Sample\Sample\obj\Debug\Sample.pdb
